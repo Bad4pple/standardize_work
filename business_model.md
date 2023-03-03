@@ -3,13 +3,13 @@ This file will explain about what is purpose of company
 ## Business Model from canvas(unsuccess)
 |Topics|Answer| 
 |------|------|
-|Value Proposition|Social Media or space that allows everyone to create their own profile|
-|Customer Relationships|Data privacy, Customer support, support their work|
-|Customer Segments|Customers who want to find freelancers to work as either SME or others. and everyone who need to make profile|
+|Value Proposition| Making the place, platform or economy for working|
+|Customer Relationships|Data Privacy, Support and promote their working or business, Every work and everyone type can be in this place|
+|Customer Segments|SME, Employee who would like to make a freelance, Everyone who would like to find work or hire work on internet|
 |Channels|WebApp, mobile app, other social media|
 |Key Partner|Payment gateway provider|
-|Key Activities|Developing and maintaining the platform, Data analysis and reporting, Providing customer support|
-|Key Resources|Freelance, SME, Developer, support, consult of business|
+|Key Activities|Developing and maintaining the platform, Data analysis and reporting, Providing customer support, Consulting|
+|Key Resources|Developer, Support, Expert for consulting|
 |Cost Structure|Cloud,Data center,Market,employee,Office,Software Engineer,IT|
 |Revenue Streams|Commission, Subscription for some service|
 
