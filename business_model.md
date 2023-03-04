@@ -11,7 +11,7 @@ This file will explain about what is purpose of company
 |Key Activities|Developing and maintaining the platform, Data analysis and reporting, Providing customer support, Consulting|
 |Key Resources|Developer, Support, Expert for consulting|
 |Cost Structure|Cloud,Data center,Market,employee,Office,Software Engineer,IT|
-|Revenue Streams|Commission, Subscription for some service|
+|Revenue Streams|Advertisement , Subscription for some service, Consulting|
 
 <br>
  
